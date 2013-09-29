@@ -1,4 +1,4 @@
-// This Arduino Board programm controlls Neopixel LEDs. 
+// This little Arduino Board programm controlls Neopixel LEDs. 
 // The colors of the Neopixel are defined via serial commands.
 // Application idea:
 // It might be usefull to communicate the states of things by attaching a color.
