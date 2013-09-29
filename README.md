@@ -8,8 +8,9 @@ Just connect the Arduino to your computer and
 send coloring commands via serial communication.
 
 Example of a serial sequence:
-L00,0F,00,00
-L01,00,0F,00
-L02,00,00,0F
-S
+    L00,0F,00,00
+    L01,00,0F,00
+    L02,00,00,0F
+    S
+
 Expected Result: First LED shows red, second green, third blue
